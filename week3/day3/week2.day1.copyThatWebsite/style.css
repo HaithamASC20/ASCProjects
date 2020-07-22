@@ -1,0 +1,24 @@
+.sunglasses{
+    color:white;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-size:75px;
+}
+
+.glasses{
+    color:white;
+    position: absolute;
+    top: 43%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    font-size:80px;
+    
+}
+
+.glasses_image{
+    margin-right: 100px;
+    transform: translate(0%,-14%);
+}
+
