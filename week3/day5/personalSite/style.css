@@ -1,0 +1,97 @@
+
+#headerPic{
+    height : 25%;
+    width : 100%;
+    object-fit: cover;
+}
+
+
+.header{
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+
+#name{
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.text{
+    font-family: 'Gayathri', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.headers{
+    font-family: 'Roboto Mono', monospace;
+    color: teal;
+    text-align: center;
+    font-size: 40px;
+}
+
+.projects{
+    background-color: beige;
+}
+
+.skills{
+    background-color: whitesmoke;
+    margin-top: -28px;
+}
+.contact{
+    background-color: gray;
+    margin-top: -28px;
+}
+
+#project{
+    display: inline-block;
+}
+#pongPic{
+    width: 20%;
+    height: 20%;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+#pongText{
+    
+}
+
+#watchPic{
+    width:40%;
+    height: 40%;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+#tradeMark{
+    text-align: center;
+    color: white;
+}
+#watchText{
+
+}
+
+#p5Pic{
+    width:25%;
+    height: 25%;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.projectHeaders{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: xx-large;
+}
